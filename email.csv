@@ -1,0 +1,150 @@
+Nom,Prenom,Status,MailBox,Emails
+Heard,Marie,,heard-m,['marie.heard@enron.com']
+Taylor,Mark,Employee,taylor-m,"['mark.e.taylor@enron.com', 'mark.taylor@enron.com', 'e.taylor@enron.com']"
+Donoho,Lindy,Employee,donoho-l,"['lindy.donoho@enron.com', 'ldonoho@enron.com']"
+Gang,Lisa,,gang-l,['lisa.gang@enron.com']
+Skilling,Jeffrey,CEO,skilling-j,"['jeff.skilling@enron.com', 'jeffrey.skilling@enron.com']"
+Blair,Lynn,Director,blair-l,"['lynn.blair@enron.com', 'lynnblair@enron.com']"
+Ward,Kim,,ward-k,"['kim.ward@enron.com', 'kward@enron.com']"
+Symes,Kate,Employee,symes-k,"['kate.symes@enron.com', 'ksymes@enron.com']"
+Mann,Kay,Employee,mann-k,['kay.mann@enron.com']
+Holst,Keith,Director,holst-k,"['keith.holst@enron.com', 'kholst@enron.com']"
+Lay,Kenneth,CEO,lay-k,"['kenneth.lay@enron.com', 'kenneth_lay@enron.com']"
+Hyatt,Kevin,Director,hyatt-k,"['kevin.hyatt@enron.com', 'kevin_hyatt@enron.com', 'khyatt@enron.com']"
+Quenet,Joe,Trader,quenet-j,"['joe.quenet@enron.com', 'jquenet@enron.com']"
+Kitchen,Louise,President,kitchen-l,"['louise.kitchen@enron.com', 'lkitchen@enron.com']"
+Presto,Kevin,VicePresident,presto-k,"['kevin.m.presto@enron.com', 'm..presto@enron.com', 'kevin.presto@enron.com']"
+Taylor,Liz,,whalley-l,"['liz.taylor@enron.com', 'liz.m.taylor@enron.com', 'm..taylor@enron.com']"
+Watson,Kimberly,,watson-k,['kimberly.watson@enron.com']
+Campbell,Larry,Employee,campbell-l,"['larry.f.campbell@enron.com', 'larry.campbell@enron.com', 'f..campbell@enron.com']"
+May,Larry,Director,may-l,['larry.may@enron.com']
+Stepenovitch,Joe,VicePresident,stepenovitch-j,"['joe.stepenovitch@enron.com', 'joe_stepenovitch@enron.com']"
+Ruscitti,Kevin,Trader,ruscitti-k,['kevin.ruscitti@enron.com']
+Keiser,Kam,Employee,keiser-k,"['kam.keiser@enron.com', 'kkeiser@enron.com']"
+Parks,Joe,,parks-j,['joe.parks@enron.com']
+Forney,John,Manager,forney-j,"['m..forney@enron.com', 'john.forney@enron.com']"
+Arnold,John,Manager,arnold-j,['john.arnold@enron.com']
+Lavorato,John,CEO,lavorato-j,"['lavorato@enron.com', 'john.j.lavorato@enron.com', 'j..lavorato@enron.com']"
+Zufferli,John,VicePresident,zufferli-j,['john.zufferli@enron.com']
+Hodge,John,Managing Director,hodge-j,['john.hodge@enron.com']
+Griffith,John,Manager,griffith-j,['john.griffith@enron.com']
+Mckay,Jonathan,Director,mckay-j,['jonathan.mckay@enron.com']
+Hernandez,Juan,Employee,hernandez-j,['juan.hernandez@enron.com']
+Townsend,Judy,Employee,townsend-j,['judy.townsend@enron.com']
+Schwieger,Jim,Trader,schwieger-j,['jim.schwieger@enron.com']
+Salisbury,Holden,Employee,salisbury-h,['holden.salisbury@enron.com']
+Shively,Hunter,VicePresident,shively-h,"['hunter.s.shively@enron.com', 's..shively@enron.com', 'hunter.shively@enron.com']"
+Steffes,James,VicePresident,steffes-j,"['james.d.steffes@enron.com', 'd..steffes@enron.com', 'james.steffes@enron.com']"
+Derrick,James,In House Lawyer,derrick-j,"['james.derrick@enron.com', 'james_derrick@enron.com']"
+Tholt,Jane,VicePresident,tholt-j,"['jane.tholt@enron.com', 'jane.m.tholt@enron.com', 'm..tholt@enron.com']"
+Wolfe,Jason,,wolfe-j,['jason.wolfe@enron.com']
+Williams,Jason,VicePresident,williams-j,"['jason.williams@enron.com', 'jason.r.williams@enron.com']"
+Reitmeyer,Jay,Employee,reitmeyer-j,['jay.reitmeyer@enron.com']
+Dasovich,Jeff,Employee,dasovich-j,"['jeff.dasovich@enron.com', 'jeff_dasovich@enron.com', 'jeffdasovich@enron.com']"
+King,Jeff,Manager,king-j,['jeff.king@enron.com']
+Shankman,Jeffrey,President,shankman-j,"['jeffrey.a.shankman@enron.com', 'a..shankman@enron.com', 'jeffrey.shankman@enron.com']"
+Meyers,Albert,Employee,meyers-a,['albert.meyers@enron.com']
+Ring,Andrea,,ring-a,['andrea.ring@enron.com']
+Lewis,Andrew,Director,lewis-a,"['h..lewis@enron.com', 'andrew.lewis@enron.com', 'andrew.h.lewis@enron.com']"
+Zipper,Andy,VicePresident,zipper-a,"['andy.zipper@enron.com', 'azipper@enron.com']"
+Tycholiz,Barry,VicePresident,tycholiz-b,['barry.tycholiz@enron.com']
+Rogers,Benjamin,Employee,rogers-b,['benjamin.rogers@enron.com']
+Rapp,Bill,,rapp-b,"['bill.rapp@enron.com', 'brapp@enron.com']"
+Williams,Bill,,williams-w3,['bill.williams@enron.com']
+Mckay,Brad,Employee,mckay-b,"['brad.mckay@enron.com', 'bmckay@enron.com']"
+Semperger,Cara,Employee,semperger-c,['cara.semperger@enron.com']
+Clair,Carol,VicePresident,stclair-c,"['carol.clair@enron.com', 'carol.st.clair@enron.com', 'carol.stclair@enron.com']"
+Weldon,Charles,,weldon-c,"['charles.weldon@enron.com', 'v.charles.weldon@enron.com', 'v.weldon@enron.com']"
+Germany,Chris,Employee,germany-c,"['chris.germany@enron.com', 'chris_germany@enron.com', 'c.germany@enron.com']"
+Dorland,Chris,Manager,dorland-c,['chris.dorland@enron.com']
+Stokley,Chris,,stokley-c,['chris.stokley@enron.com']
+Richey,Cooper,Manager,richey-c,"['cooper.richey@enron.com', 'crichey@enron.com']"
+Dean,Craig,Trader,dean-c,['craig.dean@enron.com']
+Hyvl,Dan,Employee,hyvl-d,"['dan.hyvl@enron.com', 'dan.j.hyvl@enron.com', 'dhyvl@enron.com']"
+Davis,Dana,VicePresident,davis-d,"['dana.davis@enron.com', 'd..davis@enron.com', 'dana_davis@enron.com']"
+McCarty,Danny,VicePresident,mccarty-d,['danny.mccarty@enron.com']
+Farmer,Daren,Manager,farmer-d,"['daren.j.farmer@enron.com', 'daren.farmer@enron.com', 'j..farmer@enron.com']"
+Schoolcraft,Darrell,,schoolcraft-d,['darrell.schoolcraft@enron.com']
+Giron,Darron,Employee,giron-d,"['c..giron@enron.com', 'darron.giron@enron.com', 'darron.c.giron@enron.com']"
+Delainey,David,CEO,delainey-d,"['david.w.delainey@enron.com', 'david.delainey@enron.com', 'w..delainey@enron.com']"
+Perlingiere,Debra,Employee,perlingiere-d,['debra.perlingiere@enron.com']
+Scholtes,Diana,Trader,scholtes-d,['diana.scholtes@enron.com']
+Baughman,Don,Trader,baughman-d,"['don.baughman@enron.com', 'd@baughman.com', 'don_baughman@enron.com']"
+Gilbert-smith,Doug,Employee,gilbertsmith-d,"['doug.gilbert-smith@enron.com', 'gilbert-smith@enron.com']"
+Fossum,Drew,VicePresident,fossum-d,"['drew.fossum@enron.com', 'drew_fossum@enron.com']"
+Quigley,Dutch,Trader,quigley-d,['dutch.quigley@enron.com']
+Sager,Elizabeth,Employee,sager-e,"['elizabeth.sager@enron.com', 'esager@enron.com']"
+Saibi,Eric,Trader,saibi-e,"['eric.saibi@enron.com', 'esaibi@enron.com']"
+Bass,Eric,Trader,bass-e,"['eric.bass@enron.com', 'ebass@enron.com']"
+Linder,Eric,Employee,linder-e,"['eric.linder@enron.com', 'eric_linder@enron.com']"
+McLaughlin,Errol,Employee,mclaughlin-e,['errol.mclaughlin@enron.com']
+Sturm,Fletcher,VicePresident,sturm-f,"['fletcher.j.sturm@enron.com', 'j..sturm@enron.com', 'fletcher.sturm@enron.com']"
+Ermis,Frank,Director,ermis-f,"['frank.ermis@enron.com', 'fermis@enron.com']"
+Solberg,Geir,Employee,solberg-g,"['geir.solberg@enron.com', 'gsolberg@enron.com']"
+Storey,Geoff,Director,storey-g,"['geoff.storey@enron.com', 'gstorey@enron.com']"
+Nemec,Gerald,,nemec-g,"['gerald.nemec@enron.com', 'gnemec@enron.com']"
+Whalley,Greg,President,whalley-g,"['greg.whalley@enron.com', 'gwhalley@enron.com']"
+Arora,Harry,VicePresident,arora-h,"['harry.arora@enron.com', 'harora@enron.com']"
+Whitt,Mark,,whitt-m,"['mark.whitt@enron.com', 'mwhitt@enron.com']"
+Haedicke,Mark,Managing Director,haedicke-m,"['e..haedicke@enron.com', 'mark.haedicke@enron.com', 'mark.e.haedicke@enron.com']"
+McConnell,Mark,,mcconnell-m,"['mark.mcconnell@enron.com', 'mark_mcconnell@enron.com']"
+Guzman,Mark,Managing Director,guzman-m,['mark.guzman@enron.com']
+Cuilla,Martin,Manager,cuilla-m,"['martin.cuilla@enron.com', 'mcuilla@enron.com', 'martin_cuilla@enron.com']"
+Fischer,Mary,Employee,fischer-m,['mary.fischer@enron.com']
+Hain,Mary,,hain-m,"['mary.hain@enron.com', 'mhain@enron.com', 'mary_hain@enron.com']"
+Smith,Matt,,smith-m,"['matt.smith@enron.com', 'matthew.smith?@enron.com']"
+Motley,Matt,Director,motley-m,"['matt.motley@enron.com', 'mmotley@enron.com']"
+Lenhart,Matthew,Employee,lenhart-m,"['matthew.lenhart@enron.com', 'mlenhart@enron.com']"
+Cash,Michelle,Employee,cash-m,"['michelle.cash@enron.com', 'mcash@enron.com', 'michelle_cash@enron.com']"
+Lokay,Michelle,Employee,lokay-m,"['michelle.lokay@enron.com', 'michele.lokay@enron.com', 'mlokay@enron.com']"
+Grigsby,Mike,Manager,grigsby-m,['mike.grigsby@enron.com']
+Maggi,Mike,Director,maggi-m,"['mike.maggi@enron.com', 'mmaggi@enron.com']"
+Carson,Mike,Manager,carson-m,"['mike.carson@enron.com', 'mcarson@enron.com']"
+Swerzbin,Mike,Trader,swerzbin-m,['mike.swerzbin@enron.com']
+Causholli,Monika,Employee,causholli-m,['monika.causholli@enron.com']
+Sanchez,Monique,,sanchez-m,['monique.sanchez@enron.com']
+Mims,Patrice,,mims-thurston-p,"['patrice.l.mims@enron.com', 'l..mims@enron.com', 'partice.mims@enron.com']"
+Lucci,Paul,Employee,lucci-p,"['paul.lucci@enron.com', 't..lucci@enron.com', 'plucci@enron.com']"
+Barbo,Paul,Trader,ybarbo-p,"['paul.y barbo@enron.com', 'barbo@enron.com', 'pybarbo@enron.com']"
+Thomas,Paul,,thomas-p,"['paul.d.thomas@enron.com', 'd..thomas@enron.com', 'paul.thomas@enron.com']"
+Keavey,Peter,Employee,keavey-p,"['peter.keavey@enron.com', 'f..keavey@enron.com', 'pkeavey@enron.com', 'peter.f.keavey@enron.com']"
+Allen,Phillip,Manager,allen-p,"['phillip.k.ellen@enron.com', 'phillip.allen@enron.com', 'k..allen@enron.com']"
+Platter,Phillip,Employee,platter-p,['phillip.platter@enron.com']
+Love,Phillip,,love-p,"['phillip.m.love@enron.com', 'm..love@enron.com', 'phillip.love@enron.com']"
+Gay,Randall,Employee,gay-r,"['l..gay@enron.com', 'randall.gay@enron.com', 'randall.l.gay@enron.com']"
+Ring,Richard,Employee,ring-r,['richard.ring@enron.com']
+Sanders,Richard,VicePresident,sanders-r,"['richard.b.sanders@enron.com', 'b..sanders@enron.com', 'richard.sanders@enron.com']"
+Shapiro,Richard,VicePresident,shapiro-r,['richard.shapiro@enron.com']
+Buy,Rick,Manager,buy-r,['rick.buy@enron.com']
+Badeer,Robert,Director,badeer-r,"['robert.badeer@enron.com', 'rbadeer@enron.com']"
+Benson,Robert,Director,benson-r,"['robert.benson@enron.com', 'r.benson@enron.com', 'rbenson@enron.com']"
+Rodrigue,Robin,,rodrique-r,['robin.rodrigue@enron.com']
+Hayslett,Rod,VicePresident,hayslett-r,"['rod.hayslett@enron.com', 'rod_hayslett@enron.com']"
+Slinger,Ryan,Trader,slinger-r,['ryan.slinger@enron.com']
+Beck,Sally,Employee,beck-s,"['sally.beck@enron.com', 'sally_beck@enron.com']"
+Brawner,Sandra,Director,brawner-s,"['sandra.f.brawner@enron.com', 'sandra.brawner@enron.com', 'f..brawner@enron.com']"
+Shackleton,Sara,,shackleton-s,"['sara.shackleton@enron.com', 'sara_shackleton@enron.com']"
+Hendrickson,Scott,,hendrickson-s,"['scott.hendrickson@enron.com', 'scott . hendrikcson@enron.com']"
+Neal,Scott,VicePresident,neal-s,['scott.neal@enron.com']
+Crandall,Sean,Director,crandell-s,"['sean.crandall@enron.com', 'scrandall@enron.com']"
+Corman,Shelley,VicePresident,corman-s,"['shelley.corman@enron.com', 'scorman@enron.com', 'shelley_corman@enron.com']"
+White,Stacey,,white-s,"['stacey.w.white@enron.com', 'w..white@enron.com', 'stacey.white@enron.com']"
+Dickson,Stacy,Employee,dickson-s,"['stacy.dickson@enron.com', 'e..dickson@enron.com', 'stacy.e.dickson@enron.com']"
+Horton,Stanley,President,horton-s,"['stanley.horton@enron.com', 'stanley_horton@enron.com']"
+Panus,Stephanie,Employee,panus-s,['stephanie.panus@enron.com']
+Kean,Steven,VicePresident,kean-s,"['steven.j.kean@enron.com', 'steven.kean@enron.com', 'skean@enron.com', 'j..kean@enron.com']"
+Harris,Steven,VicePresident,harris-s,['steven.harris@enron.com']
+Merris,Steven,,merriss-s,"['steven.merris@enron.com', 'steven.merriss@enron.com']"
+South,Steven,,south-s,"['steven.p.south@enron.com', 'steven.south@enron.com', 'p..south@enron.com']"
+Pereira,Susan,Employee,pereira-s,"['susan.w.pereira@enron.com', 'w..pereira@enron.com', 'susan.peireira@enron.com']"
+Scott,Susan,,scott-s,"['susan.scott@enron.com', 'm..scott@enron.com', 'susan.m.scott@enron.com']"
+Bailey,Susan,,bailey-s,['susan.bailey@enron.com']
+Jones,Tana,,jones-t,"['tana.jones@enron.com', 'tana_jones@enron.com']"
+Lokey,Teb,Manager,lokey-t,"['teb.lokey@enron.com', 'teb_lokey@enron.com', 'tlokey@enron.com']"
+Staab,Theresa,Employee,staab-t,"['theresa.staab@enron.com', 'theresa_staab@enron.com', 'tstaab@enron.com']"
+Martin,Thomas,VicePresident,martin-t,"['thomas.a.martin@enron.com', 'thomas.martin@enron.com', 'a..martin@enron.com']"
+Donohoe,Tom,Employee,donohoe-t,['tom.donohoe@enron.com']
+Kuykendall,Tori,Trader,kuykendall-t,['tori.kuykendall@enron.com']
+Geaccone,Tracy,Employee,geaccone-t,"['tracy.geaccone@enron.com', 'tracy_geaconne@enron.com']"
+Kaminski,Vince,Manager,kaminski-v,"['j.kaminski@enron.com', 'vince.kaminski@enron.com', 'kaminski@enron.com']"
+Pimenov,Vladi,,pimenov-v,"['vladi.pimenov@enron.com', 'vpimenov@enron.com']"
